@@ -26,3 +26,5 @@ function staircase(n) {
 }
 
 staircase(3);
+
+//minha solução
