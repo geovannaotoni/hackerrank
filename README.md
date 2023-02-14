@@ -1,3 +1,3 @@
 # hackerrank
 
-resolução dos exercícios do HackerRank
+Resolução dos desafios do HackerRank para treinar a lógica de programação.
